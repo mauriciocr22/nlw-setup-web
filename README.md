@@ -2,6 +2,8 @@
 
 NLW Setup Web is a web project created through the Next Level Week online classes provided by Rocketseat.
 
+![preview](./src/assets/habits-page.png)
+
 ## Getting Started
 
 > This project is used along with [NLW-Setup-server](https://github.com/mauriciocr22/nlw-setup-server)
